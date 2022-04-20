@@ -5,6 +5,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-barakat)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abara15)
 
+<br />
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+
 
 # Intro
 Hey everyone 👋
@@ -38,11 +42,12 @@ If you're interested in reaching out or learning a bit more about me, check my s
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abara15&hide=html,css&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=202632" />
 </a>
 
+<br/>
+
 <a href="https://github.com/abara15">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api?username=abara15&show_icons=true&line_height=27&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=202632" alt="Braydon's GitHub Stats" />
 </a>
 
-<!-- [](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter) -->
 
 # Skills
 
