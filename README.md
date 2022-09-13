@@ -10,9 +10,9 @@
 # Intro
 Hey everyone 👋
 
-My name is Anthony Barakat. I'm a Software Engineer based in Sydney, AU. I work full-stack, but specialise in front-end development. I enjoy working on cool projects and web apps that are made user-first!
+My name is Anthony Barakat. I'm a Development Operations Engineer based in Sydney, AU. I work in Azure DevOps assisting in the development and support of CI/CD processes and pipelines for all infrastructure-related components in my organisation.
 
-I am proficient in JavaScript, Python, React.js, Node.js, Sass, and C, and am currently in the middle of learning Golang and Terraform.
+I am proficient in JavaScript, Python, React.js, Node.js, Sass, and C.
 
 If you're interested in reaching out or learning a bit more about me, check my socials above or my portfolio [here](https://abara15.github.io)!
 
