@@ -7,11 +7,14 @@
 # Intro
 Hey everyone 👋
 
-My name is Anthony Barakat. I'm a Development Operations Engineer based in Sydney, AU. I work in Azure DevOps assisting in the development and support of CI/CD processes and pipelines for all infrastructure-related components in my organisation.
+My name is Anthony Barakat. I'm a Development Operations Engineer based in Sydney, AU. I specialise in enhancing deployment efficiency and automating infrastructure processes within my organisation.
 
-I am proficient in JavaScript, Python, React.js, Node.js, Sass, C, and Terraform.
+I am proficient in Python, JavaScript, SQL, Node.js, C, Terraform, and Azure, with a strong foundation in web development using React and modern frameworks. I am passionate about driving continuous improvement and innovation in development and release cycles, ensuring seamless and secure infrastructure releases.
+
+Outside of my job, I do some coding projects on the side - some for me and some for my friends. I always strive to learn more and keep up to date with the newest technologies, and keeping my brain active by expanding my knowledge base with new information. My interests are not only in coding, but I love learning about history and theology as well! I am particularly interested in Eastern Christian studies and Oriental languages. I am also a sports and film buff 🎥🏈📖
 
 If you're interested in reaching out or learning a bit more about me, check my socials above or my portfolio [here](https://abara15.github.io)!
+
 
 # Top Repos
 
