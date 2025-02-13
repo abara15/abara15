@@ -5,15 +5,24 @@
 
 
 # Intro
-Hey everyone 👋
+I am a **technology professional** with expertise in **solution architecture**, **software engineering**, **DevOps**, and **AI-driven business automation**. My passion lies in **designing scalable systems**, **optimising workflows**, and **integrating AI and cloud solutions** to drive business efficiency and innovation.
 
-My name is Anthony Barakat. I'm a Development Operations Engineer based in Sydney, AU. I specialise in enhancing deployment efficiency and automating infrastructure processes within my organisation.
+With a **Bachelor of Engineering (Honours) in Software Engineering** from UNSW, I have developed a strong technical foundation in **cloud computing**, **automation**, **CI/CD**, and **AI integration**. My experience spans **software development**, **infrastructure automation**, **enterprise system design**, and **business process optimisation**.
 
-I am proficient in Python, JavaScript, SQL, Node.js, C, Terraform, and Azure, with a strong foundation in web development using React and modern frameworks. I am passionate about driving continuous improvement and innovation in development and release cycles, ensuring seamless and secure infrastructure releases.
+Key Expertise:
+✔ **Solution Architecture** – Engaging with stakeholders, defining system requirements, and designing scalable, cost-effective solutions.
+✔ **DevOps & Cloud Automation** – Optimising deployment pipelines, automating infrastructure provisioning, and managing cloud environments (Azure, AWS, GCP).
+✔ **AI & Business Process Automation** – Training AI models in Azure AI Studio, developing AI-powered document analysis, and integrating automation into enterprise workflows.
+✔ Full-Stack Development – Building web applications with React.js, Node.js, Python, and modern frameworks.
 
-Outside of my job, I do some coding projects on the side - some for me and some for my friends. I always strive to learn more and keep up to date with the newest technologies, and keeping my brain active by expanding my knowledge base with new information. My interests are not only in coding, but I love learning about history and theology as well! I am particularly interested in Eastern Christian studies and Oriental languages. I am also a sports and film buff 🎥🏈📖
+Notable Projects:
+🔹 **User Lifecycle Automation** – Transformed a manual onboarding/offboarding process by integrating Workday, Active Directory, and Microsoft Entra ID, reducing errors and improving efficiency.
+🔹 **Connectabuild** – Developed a construction quality assurance platform, redesigned the backend API, rebuilding the Airtable database, built workflow automations, and migrated the system from AppSheet to Softr.
+🔹 **React Check-In App** – Designed an Azure-based architecture for an app monitoring offices and employees during the COVID-19 pandemic, leading stakeholder engagement, solution design, and development.
+🔹 **LibreChat AI Deployment** – Architected a Docker-based AI infrastructure, enabling seamless AI adoption for internal use.
+🔹 **Remote Patient Monitoring System (UNSW Thesis Project)** – Built a modular, cloud-based healthcare platform, collaborating with stakeholders from UNSW’s Biomedical Engineering School to define requirements and deployment strategies, and developed the overall system and deployment process.
 
-If you're interested in reaching out or learning a bit more about me, check my socials above or my portfolio [here](https://abara15.github.io)!
+I am always looking for new challenges where I can apply my expertise in solution design, automation, and AI integration to help businesses innovate and scale effectively.
 
 
 # Top Repos
