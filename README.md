@@ -9,18 +9,18 @@ I am a **technology professional** with expertise in **solution architecture**, 
 
 With a **Bachelor of Engineering (Honours) in Software Engineering** from UNSW, I have developed a strong technical foundation in **cloud computing**, **automation**, **CI/CD**, and **AI integration**. My experience spans **software development**, **infrastructure automation**, **enterprise system design**, and **business process optimisation**.
 
-Key Expertise:
-✔ **Solution Architecture** – Engaging with stakeholders, defining system requirements, and designing scalable, cost-effective solutions.
-✔ **DevOps & Cloud Automation** – Optimising deployment pipelines, automating infrastructure provisioning, and managing cloud environments (Azure, AWS, GCP).
-✔ **AI & Business Process Automation** – Training AI models in Azure AI Studio, developing AI-powered document analysis, and integrating automation into enterprise workflows.
+Key Expertise:  
+✔ **Solution Architecture** – Engaging with stakeholders, defining system requirements, and designing scalable, cost-effective solutions.  
+✔ **DevOps & Cloud Automation** – Optimising deployment pipelines, automating infrastructure provisioning, and managing cloud environments (Azure, AWS, GCP).  
+✔ **AI & Business Process Automation** – Training AI models in Azure AI Studio, developing AI-powered document analysis, and integrating automation into enterprise workflows.  
 ✔ Full-Stack Development – Building web applications with React.js, Node.js, Python, and modern frameworks.
 
-Notable Projects:
-🔹 **User Lifecycle Automation** – Transformed a manual onboarding/offboarding process by integrating Workday, Active Directory, and Microsoft Entra ID, reducing errors and improving efficiency.
-🔹 **Connectabuild** – Developed a construction quality assurance platform, redesigned the backend API, rebuilding the Airtable database, built workflow automations, and migrated the system from AppSheet to Softr.
-🔹 **React Check-In App** – Designed an Azure-based architecture for an app monitoring offices and employees during the COVID-19 pandemic, leading stakeholder engagement, solution design, and development.
-🔹 **LibreChat AI Deployment** – Architected a Docker-based AI infrastructure, enabling seamless AI adoption for internal use.
-🔹 **Remote Patient Monitoring System (UNSW Thesis Project)** – Built a modular, cloud-based healthcare platform, collaborating with stakeholders from UNSW’s Biomedical Engineering School to define requirements and deployment strategies, and developed the overall system and deployment process.
+Notable Projects:  
+🔹 **User Lifecycle Automation** – Transformed a manual onboarding/offboarding process by integrating Workday, Active Directory, and Microsoft Entra ID, reducing errors and improving efficiency.  
+🔹 **Connectabuild** – Developed a construction quality assurance platform, redesigned the backend API, rebuilding the Airtable database, built workflow automations, and migrated the system from AppSheet to Softr.  
+🔹 **React Check-In App** – Designed an Azure-based architecture for an app monitoring offices and employees during the COVID-19 pandemic, leading stakeholder engagement, solution design, and development.  
+🔹 **LibreChat AI Deployment** – Architected a Docker-based AI infrastructure, enabling seamless AI adoption for internal use.  
+🔹 **Remote Patient Monitoring System (UNSW Thesis Project)** – Built a modular, cloud-based healthcare platform, collaborating with stakeholders from UNSW’s Biomedical Engineering School to define requirements and deployment strategies, and developed the overall system and deployment process.  
 
 I am always looking for new challenges where I can apply my expertise in solution design, automation, and AI integration to help businesses innovate and scale effectively.
 
