@@ -1,3 +1,4 @@
+<!---
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abara15)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abara_15)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-barakat)
@@ -12,7 +13,7 @@ Key Expertise:
 ✔ **Solution Architecture** – Engaging with stakeholders, defining system requirements, and designing scalable, cost-effective solutions.  
 ✔ **DevOps & Cloud Automation** – Optimising deployment pipelines, automating infrastructure provisioning, and managing cloud environments (Azure, AWS, GCP).  
 ✔ **AI & Business Process Automation** – Training AI models in Azure AI Studio, developing AI-powered document analysis, and integrating automation into enterprise workflows.  
-✔ Full-Stack Development – Building web applications with React.js, Node.js, Python, and modern frameworks.
+✔ **Full-Stack Development** – Building web applications with React.js, Node.js, Python, and modern frameworks.
 
 Notable Projects:  
 🔹 **User Lifecycle Automation** – Transformed a manual onboarding/offboarding process by integrating Workday, Active Directory, and Microsoft Entra ID, reducing errors and improving efficiency.  
@@ -149,13 +150,14 @@ I am always looking for new challenges where I can apply my expertise in solutio
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </details>
+--->
 
-<!-- 
+
 - 👋 Hi, I’m @abara15
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+- 📫 How to reach me ...
 
 <!---
 abara15/abara15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
